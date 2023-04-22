@@ -14,4 +14,3 @@ A Discord Nuker in Python
 1. Launch the Bot, do python main.py
 2. Defualt Prefix: !, you can change it in source code
 3. Start nuke: !nuke
--ewa
